@@ -3,9 +3,10 @@
 
 本框架主要使用了BiLSTM或TreeLSTM循环神经网络模型对文本对进行建模，  
 <div align=center>
-  <img src="./pic/esim.jpg"> 
+  <img src="./pic/esim.png"> 
   <div class="caption">ESIM框架的示意图。</div>
-</div>  
+</div>   
+
 
 ```python
 torch==1.5.1
